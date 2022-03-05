@@ -1,4 +1,1 @@
-# claim
-
-This is The Sample about Claim Principal In ASP.NET CORE 2.1 ,3.2 , 5 , 6
-
+ از این ریپوزیتوری صرفا جهت یادگیری موارد کلی در گیت استفاده می شود
