@@ -1,0 +1,8 @@
+فرض کنید میخواهیم تمام فایل های متنی در داخل فولدر bin  توسط گیت دنبال نشود به غیر از یک فایل خاص 
+open .ignore file
+bin/
+*.txt
+!trackit.txt
+save file 
+commit 
+git will track trackit.txt file in bin folder.
